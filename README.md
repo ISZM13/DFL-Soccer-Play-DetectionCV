@@ -37,8 +37,8 @@ The project is based on a tutorial video on YouTube which demonstrates how to ut
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/aaditya29/DFL---Bundesliga-Data-Shootout-Analysis.git
-cd DFL---Bundesliga-Data-Shootout-Analysis
+git clone https://github.com/ISZM13/DFL-Soccer-Play-DetectionCV.git
+cd DFL-Soccer-Play-DetectionCV
 ```
 
 ## Usage
